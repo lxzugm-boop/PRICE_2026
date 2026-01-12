@@ -1,0 +1,5 @@
+{
+  "name": "Geizer Dynamic Price List",
+  "description": "A React application that dynamically loads price list data from Google Sheets, featuring advanced filtering, search, and export capabilities.",
+  "requestFramePermissions": []
+}
