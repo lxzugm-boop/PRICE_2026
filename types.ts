@@ -1,6 +1,6 @@
 
 export interface PriceItem {
-  id: string; // Dynamic ID or index
+  id: string;
   article: string;
   name: string;
   description: string;
